@@ -13,3 +13,4 @@ I then mounted the USB stick on my MacBook Pro running macOS 15. Using DfontSpli
 I opened the .bdg files in FontLab 8 and saved them all as .ttf files.
 
 Finally to make them all web-ready I converted these new bitmap .ttf files using https://transfonter.org to get .woff and .woff2 files.
+
