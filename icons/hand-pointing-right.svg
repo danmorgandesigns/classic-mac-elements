@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 16">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path d="M5,2h-2v-1H0v15h3s0-1,0-1h3V2h-1ZM5,14h-2V3h2v11Z"/>
+  <rect x="6" y="3" width="1" height="1"/>
+  <rect x="6" y="13" width="1" height="1"/>
+  <rect x="7" y="2" width="2" height="1"/>
+  <rect x="9" y="1" width="2" height="1"/>
+  <rect x="7" y="14" width="3" height="1"/>
+  <rect x="10" y="15" width="6" height="1"/>
+  <rect x="11" width="11" height="1"/>
+  <rect x="14" y="5" width="1" height="1"/>
+  <rect x="19" y="2" width="1" height="1"/>
+  <rect x="15" y="6" width="4" height="1"/>
+  <rect x="15" y="7" width="1" height="2"/>
+  <rect x="14" y="9" width="1" height="2"/>
+  <rect x="13" y="11" width="1" height="2"/>
+  <rect x="16" y="9" width="2" height="1"/>
+  <rect x="15" y="11" width="2" height="1"/>
+  <rect x="14" y="13" width="2" height="1"/>
+  <rect x="20" y="3" width="2" height="1"/>
+  <rect x="22" y="1" width="5" height="1"/>
+  <rect x="25" y="5" width="6" height="1"/>
+  <rect x="27" y="2" width="4" height="1"/>
+  <rect x="22" y="4" width="3" height="1"/>
+  <rect x="19" y="7" width="5" height="1"/>
+  <rect x="18" y="10" width="5" height="1"/>
+  <rect x="17" y="12" width="4" height="1"/>
+  <rect x="16" y="14" width="4" height="1"/>
+  <rect x="24" y="5" width="1" height="2"/>
+  <rect x="23" y="8" width="1" height="2"/>
+  <rect x="21" y="11" width="1" height="1"/>
+  <rect x="20" y="13" width="1" height="1"/>
+  <rect x="31" y="3" width="1" height="2"/>
+  <rect class="st0" x="3" y="3" width="2" height="11"/>
+  <rect class="st0" x="7" y="13" width="7" height="1"/>
+  <g>
+    <polygon class="st0" points="13 11 14 11 14 9 15 9 15 6 14 6 14 1 13 1 11 1 11 2 9 2 9 3 7 3 7 4 6 4 6 13 13 13 13 11"/>
+    <rect class="st0" x="10" y="14" width="6" height="1"/>
+  </g>
+  <rect class="st0" x="18" y="8" width="5" height="2"/>
+  <polygon class="st0" points="22 5 22 4 20 4 20 3 19 3 19 1 14 1 14 5 15 5 15 6 19 6 19 7 20 7 24 7 24 5 22 5"/>
+  <rect class="st0" x="16" y="8" width="2" height="1"/>
+  <rect class="st0" x="16" y="7" width="3" height="1"/>
+  <polygon class="st0" points="27 3 27 2 22 2 22 1 19 1 19 2 20 2 20 3 22 3 22 4 25 4 25 5 31 5 31 4 31 3 27 3"/>
+  <polygon class="st0" points="17 13 17 12 15 12 15 11 14 11 14 12 14 13 16 13 16 14 20 14 20 13 17 13"/>
+  <polygon class="st0" points="18 11 18 10 16 10 16 9 15 9 15 10 15 11 17 11 17 12 21 12 21 11 18 11"/>
+</svg>

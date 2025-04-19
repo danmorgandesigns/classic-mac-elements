@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_4" xmlns="http://www.w3.org/2000/svg" width="29" height="32" version="1.1" viewBox="0 0 29 32">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="st0" d="M22,7V1H5v3h-3v5h1v-2h2v24h23V7h-6ZM5,6h-2v-1h2v1Z"/>
+    <polygon class="st0" points="24 6 25 6 25 6 26 6 27 6 27 5 26 5 26 4 25 4 25 3 24 3 24 2 23 2 23 6 24 6 24 6"/>
+  </g>
+  <g>
+    <rect x="21" y="15" width="1" height="1"/>
+    <rect x="11" y="13" width="1" height="1"/>
+    <rect x="9" y="15" width="1" height="1"/>
+    <rect x="19" y="13" width="1" height="1"/>
+    <polygon points="14 14 14 11 13 11 13 15 14 15 14 17 14 18 14 19 13 19 13 21 12 21 12 24.1 11 24.1 11 25 10 25 10 26 8 26 8 27 7 27 7 28 7 29 7 30 10 30 10 29 8 29 8 28 9 28 9 27 10 27 10 29 11 29 11 27 12 27 12 26 12 25.1 12 25 13 25 13 24 14 24 16 24 16 23 18 23 18 22 22 22 22 21 25 21 25 20 19 20 19 21 17 21 17 22 15 22 15 23 14 23 14 20 15 20 15 18 16 18 16 19 17 19 17 20 19 20 19 19 18 19 18 18 17 18 17 17 16 17 16 13 17 13 17 12 16 12 16 11 15 11 15 14 14 14"/>
+    <rect x="9" y="24" width="1" height="1"/>
+    <rect x="8" y="18" width="1" height="1"/>
+    <rect x="8" y="21" width="1" height="1"/>
+    <rect x="13" y="27" width="1" height="1"/>
+    <rect x="22" y="22" width="3" height="1"/>
+    <rect x="22" y="18" width="1" height="1"/>
+    <rect x="19" y="26" width="1" height="1"/>
+    <rect x="16" y="27" width="1" height="1"/>
+    <polygon points="26 4 26 3 25 3 25 4 26 4 26 5 27 5 27 4 26 4"/>
+    <rect x="24" y="2" width="1" height="1"/>
+    <path d="M28,6v-1h-1v1h-4V2h1v-1h-1V0H4v3h1V1h17v6h1s5,0,5,0v24H5V10h9v1h1v-1h6v-6h0v-1H0v1h0v6h4v22h25V6h-1ZM18,5h-3v1h2v1h-2v2h-1v-5h4v1ZM11,8v-3h1v3h-1v1h-3v-5h3v1h-2v3h2ZM2,4h3v1h-2v1h2v-1h1v1h-1v1h-2v2h-1v-5Z"/>
+    <rect x="25" y="21" width="1" height="1"/>
+    <rect x="21" y="24" width="1" height="1"/>
+  </g>
+</svg>

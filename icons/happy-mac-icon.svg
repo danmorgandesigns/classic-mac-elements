@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 32 32">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="26.5 2 26.5 1 5.5 1 5.5 2 4.5 2 4.5 27 27.5 27 27.5 2 26.5 2"/>
+  <rect x="11.5" y="7" width="1" height="2"/>
+  <rect x="3.5" y="2" width="1" height="25"/>
+  <rect x="5.5" width="21" height="1"/>
+  <rect x="18.5" y="22" width="6" height="1"/>
+  <rect x="4.5" y="1" width="1" height="1"/>
+  <rect x="26.5" y="1" width="1" height="1"/>
+  <rect x="27.5" y="2" width="1" height="25"/>
+  <path d="M4.5,27v5h23v-5H4.5ZM26.5,31H5.5v-3h21v3Z"/>
+  <rect x="6.5" y="23" width="2" height="1"/>
+  <rect x="19.5" y="7" width="1" height="2"/>
+  <rect x="18.5" y="13" width="1" height="1"/>
+  <rect x="13.5" y="13" width="1" height="1"/>
+  <rect x="14.5" y="14" width="4" height="1"/>
+  <rect x="7.5" y="3" width="17" height="1"/>
+  <rect x="6.5" y="4" width="1" height="13"/>
+  <rect x="24.5" y="4" width="1" height="13"/>
+  <rect x="7.5" y="17" width="17" height="1"/>
+  <polygon points="16 7 16 11 15 11 15 12 16 12 17 12 17 7 16 7"/>
+  <rect class="st0" x="5.5" y="28" width="21" height="3"/>
+</svg>

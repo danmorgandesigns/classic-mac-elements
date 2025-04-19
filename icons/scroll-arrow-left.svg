@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 11 13">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect x="0" y="6" width="1" height="1" transform="translate(-6 7) rotate(-90)"/>
+    <rect x="1" y="5" width="1" height="1" transform="translate(-4 7) rotate(-90)"/>
+    <rect x="2" y="4" width="1" height="1" transform="translate(-2 7) rotate(-90)"/>
+    <rect x="3" y="3" width="1" height="1" transform="translate(0 7) rotate(-90)"/>
+    <rect x="4" y="2" width="1" height="1" transform="translate(2 7) rotate(-90)"/>
+    <rect x="5" y="1" width="1" height="1" transform="translate(4 7) rotate(-90)"/>
+    <rect x="5" y="11" width="1" height="1" transform="translate(-6 17) rotate(-90)"/>
+    <rect x="4" y="10" width="1" height="1" transform="translate(-6 15) rotate(-90)"/>
+    <rect x="3" y="9" width="1" height="1" transform="translate(-6 13) rotate(-90)"/>
+    <rect x="2" y="8" width="1" height="1" transform="translate(-6 11) rotate(-90)"/>
+    <rect x="1" y="7" width="1" height="1" transform="translate(-6 9) rotate(-90)"/>
+    <rect x="8" y="8" width="1" height="3" transform="translate(-1 18) rotate(-90)"/>
+    <g>
+      <rect x="6" y="9" width="1" height="4"/>
+      <polygon points="6 4 7 4 10 4 10 10 11 10 11 3 10 3 7 3 7 0 6 0 6 4"/>
+    </g>
+  </g>
+  <polygon class="st0" points="5 3 4 3 4 4 3 4 3 5 2 5 2 6 1 6 1 7 2 7 2 8 3 8 3 9 4 9 4 10 5 10 5 11 6 11 6 9 10 9 10 4 6 4 6 2 5 2 5 3"/>
+</svg>

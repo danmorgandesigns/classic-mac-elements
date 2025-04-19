@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_3" xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="32" height="32"/>
+  <g>
+    <path d="M0,0v32h32V0H0ZM1,31V1h8v19h-4v1h2v5h-3v1h3v4H1ZM29,22v2h-1v1h-1v1h-2v1H9v-1h2v-1h1v-14h1v-2h1v-1h1v-1h1v-1h2v-1h6v1h2v1h1v1h1v1h1v2h1v11h-1Z"/>
+    <rect x="23" y="15" width="1" height="1"/>
+    <rect x="25" y="15" width="1" height="1"/>
+    <rect x="4" y="6" width="1" height="3"/>
+    <rect x="15" y="21" width="4" height="1"/>
+    <rect x="20" y="21" width="3" height="1"/>
+    <rect x="15" y="12" width="3" height="1"/>
+    <rect x="19" y="12" width="3" height="1"/>
+    <rect x="23" y="12" width="3" height="1"/>
+    <rect x="15" y="15" width="3" height="1"/>
+    <rect x="19" y="15" width="3" height="1"/>
+    <rect x="15" y="18" width="3" height="1"/>
+    <rect x="21" y="18" width="3" height="1"/>
+    <rect x="19" y="18" width="1" height="1"/>
+    <rect x="24" y="21" width="2" height="1"/>
+  </g>
+</svg>

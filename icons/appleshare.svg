@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1" viewBox="0 0 32 32">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_3">
+    <g>
+      <polygon class="st0" points="21 6 22 6 22 7 23 7 23 8 24 8 24 9 23 9 23 10 22 10 22 11 21 11 21 12 20 12 20 15 24 15 29 15 29 5 26 5 26 2 20 2 20 5 21 5 21 6"/>
+      <rect class="st0" x="27" y="3" width="1" height="1"/>
+      <polygon class="st0" points="16 7 9 7 9 6 5 6 5 7 4 7 4 15 16 15 16 7"/>
+      <rect class="st0" x="18" y="14" width="1" height="1"/>
+      <polygon class="st0" points="14 6 17 6 17 12 17 13 17 14 18 14 18 13 19 13 19 12 20 12 20 11 21 11 21 10 22 10 22 9 23 9 23 8 22 8 22 7 21 7 21 6 20 6 20 5 19 5 19 4 18 4 18 3 17 3 17 2 16 2 16 1 15 1 15 2 14 2 14 3 13 3 13 4 12 4 12 5 11 5 11 6 13 6 14 6"/>
+      <rect class="st0" x="2" y="16" width="28" height="1"/>
+      <polygon class="st0" points="19 21 21 21 21 20 21 18 15 18 15 20 16 20 16 21 18 21 18 22 19 22 19 21"/>
+      <polygon class="st0" points="21 24 22 24 22 25 23 25 23 24 23 23 21 23 21 24"/>
+      <rect class="st0" x="20" y="22" width="1" height="1"/>
+      <rect class="st0" x="22" y="18" width="1" height="4"/>
+      <polygon class="st0" points="21 24 20 24 20 23 18 23 18 22 15 22 15 23 16 23 16 24 15 24 15 23 14 23 14 22 13 22 13 21 11.9 21 11.9 18 10.9 18 10.9 21 11 21 11 23 13 23 13 24 14 24 14 25 16 25 16 26 18 26 18 27 19 27 19 29 23 29 23 27 23 26 22 26 22 25 21 25 21 24"/>
+      <polygon class="st0" points="8 19 9 19 9 21 10 21 10 19 10 18 8 18 8 19"/>
+      <rect class="st0" x="13" y="18" width="1" height="3"/>
+      <rect class="st0" x="14" y="21" width="1" height="1"/>
+    </g>
+  </g>
+  <g id="Layer_6">
+    <g>
+      <rect x="15" width="1" height="1"/>
+      <rect x="21" y="10" width="1" height="1"/>
+      <rect x="22" y="9" width="1" height="1"/>
+      <rect x="23" y="8" width="1" height="1"/>
+      <rect x="22" y="7" width="1" height="1"/>
+      <rect x="21" y="6" width="1" height="1"/>
+      <rect x="20" y="5" width="1" height="1"/>
+      <rect x="17" y="2" width="1" height="1"/>
+      <rect x="16" y="1" width="1" height="1"/>
+      <rect x="8" y="19" width="1" height="2"/>
+      <rect x="14" y="1" width="1" height="1"/>
+      <rect x="20" y="11" width="1" height="1"/>
+      <rect x="11" y="4" width="1" height="1"/>
+      <rect x="12" y="3" width="1" height="1"/>
+      <rect x="13" y="2" width="1" height="1"/>
+      <rect x="21" y="24" width="1" height="1"/>
+      <rect x="20" y="23" width="1" height="1"/>
+      <polygon points="14 25 14 24 13 24 13 23 11 23 11 24 12 24 12 25 13 25 13 26 16 26 16 25 14 25"/>
+      <rect x="15" y="23" width="1" height="1"/>
+      <rect x="14" y="22" width="1" height="1"/>
+      <rect x="13" y="21" width="1" height="1"/>
+      <rect x="16" y="26" width="2" height="1"/>
+      <path d="M2,18h5v1h1v-1h2v3h-1v1h1v1h1v-5h1v3h1v-3h1v3h1v1h3v-1h-2v-1h-1v-2h6v3h-2v1h-1v1h2v-1h1v1h2v2h-1v1h1v3h-4v-2h-1v2h-1v3h8v-3h-1v-11h6v-1H2v1ZM23,18v4h-1v-4h1Z"/>
+      <polygon points="30 15 30 4 29 4 29 3 28 3 28 4 27 4 27 3 28 3 28 2 27 2 27 1 20 1 19 1 19 3 18 3 18 4 19 4 19 5 20 5 20 2 26 2 26 4 26 5 29 5 29 15 20 15 20 12 19 12 19 13 18 13 18 14 19 14 19 15 18 15 18 14 17 14 17 7 17 6 11 6 11 5 10 5 10 6 9 6 9 7 16 7 16 15 4 15 4 7 5 7 5 6 4 6 3 6 3 15 0 15 0 16 1 16 1 17 2 17 2 16 30 16 30 17 31 17 31 16 32 16 32 15 30 15"/>
+      <rect x="5" y="5" width="4" height="1"/>
+    </g>
+  </g>
+</svg>
