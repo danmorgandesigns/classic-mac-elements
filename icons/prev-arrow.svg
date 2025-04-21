@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icon_Layer" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 23 21">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <polygon class="st0" points="10 5 9 5 9 4 9 3 9 2 8 2 8 3 7 3 7 4 6 4 6 5 5 5 5 6 4 6 4 7 3 7 3 8 2 8 2 9 1 9 1 10 2 10 2 11 3 11 3 12 4 12 4 13 5 13 5 14 6 14 6 15 7 15 7 16 8 16 8 17 9 17 9 16 9 15 9 14 20 14 20 13 20 5 10 5"/>
+  <g>
+    <rect x="7" y="2" width="1" height="1"/>
+    <rect x="6" y="3" width="1" height="1"/>
+    <rect x="5" y="4" width="1" height="1"/>
+    <rect x="4" y="5" width="1" height="1"/>
+    <rect x="3" y="6" width="1" height="1"/>
+    <rect x="2" y="7" width="1" height="1"/>
+    <rect x="1" y="8" width="1" height="1"/>
+    <rect y="9" width="1" height="1"/>
+    <rect x="1" y="10" width="1" height="1"/>
+    <rect x="2" y="11" width="1" height="1"/>
+    <rect x="3" y="12" width="1" height="1"/>
+    <rect x="4" y="13" width="1" height="1"/>
+    <rect x="5" y="14" width="1" height="1"/>
+    <rect x="6" y="15" width="1" height="1"/>
+    <rect x="7" y="16" width="1" height="1"/>
+    <polygon points="21 6 21 4 20 4 12 4 12 2 12 1 11 1 11 2 10 2 10 0 9 0 9 1 8 1 8 2 9 2 9 5 10 5 12 5 20 5 20 6 20 14 12 14 11.8 14 10 14 9 14 9 17 8 17 8 18 9 18 9 19 10 19 10 20 11 20 11 21 12 21 12 20 12 17 23 17 23 14 23 6 21 6"/>
+  </g>
+</svg>
